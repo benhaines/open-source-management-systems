@@ -39,7 +39,7 @@ Contributions from:
 * [LogStash](http://logstash.net/)
 * [Scribe](https://github.com/facebook/scribe)
 
-####Correlation
+###Event Correlation
 * [Esper](http://esper.codehaus.org/)
 * [SEC](http://simple-evcorr.sourceforge.net/)
 
@@ -59,24 +59,27 @@ Contributions from:
 * [Pennyworth](https://github.com/heavywater/pennyworth)
 * [FPM](https://github.com/jordansissel/fpm) - (Linux only)
 
-###Provisioning & Configuration Management
+###Configuration Management
 * [Poni](http://melor.github.com/poni/index.html)
 * [Puppet](http://puppetlabs.com)
 * [Chef](http://www.opscode.com/chef/)
 * [CFengine](http://www.cfengine.com)
 * [Red Hat Spacewalk](http://spacewalk.redhat.com)
-* [Cobbler](http://cobbler.github.com)
-* [xCat](http://xcat.sourceforge.net)
 * [ZooKeeper](http://zookeeper.apache.org)
 * [Noah](https://github.com/lusis/Noah)
 * [Blueprint](http://devstructure.com/)
 * [Ubuntu Landscape](http://www.canonical.com/enterprise-services/ubuntu-advantage/landscape) - the server component is not open-source
-* [Jumpsuit](http://jumpsuit.sysadmin.org.uk/)
 * [Bcfg2](http://trac.mcs.anl.gov/projects/bcfg2)
 * [cDist](https://github.com/telmich/cdist)
 * [Babushka](http://babushka.me/)
 * [Ohai](http://wiki.opscode.com/display/chef/Ohai)
 * [Facter](http://puppetlabs.com/puppet/related-projects/facter/)
+
+###Provisioning
+* [Cobbler](http://cobbler.github.com)
+* [xCat](http://xcat.sourceforge.net)
+* [Jumpsuit](http://jumpsuit.sysadmin.org.uk/)
+* [Foreman](http://theforeman.org/)
 
 ###Orchestration
 * [MCollective](http://docs.puppetlabs.com/mcollective/)
