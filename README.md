@@ -98,3 +98,7 @@ Contributions from:
 * [Netdot](https://osl.uoregon.edu/redmine/projects/netdot)
 * [Netdisco](http://www.netdisco.org/)
 * [nventory](http://sourceforge.net/apps/trac/nventory)
+
+###Backup
+* [Bacula](http://www.bacula.org/)
+* [Amanda](http://www.amanda.org/)
