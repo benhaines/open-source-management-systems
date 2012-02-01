@@ -90,6 +90,7 @@ Contributions from:
 * [Salt](http://saltstack.org/)
 * [Fabric](http://fabfile.org)
 * [Nanite](https://github.com/ezmobius/nanite)
+* [juju](https://juju.ubuntu.com/) (formerly Ensemble)
 
 ###IPAM/Asset Management
 * [OpenNetAdmin](http://opennetadmin.com)
