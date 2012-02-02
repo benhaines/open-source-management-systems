@@ -74,6 +74,7 @@ Contributions from:
 * [Babushka](http://babushka.me/)
 * [Ohai](http://wiki.opscode.com/display/chef/Ohai)
 * [Facter](http://puppetlabs.com/puppet/related-projects/facter/)
+* [Sprinkle] (https://github.com/crafterm/sprinkle)
 
 ###Provisioning
 * [Cobbler](http://cobbler.github.com)
