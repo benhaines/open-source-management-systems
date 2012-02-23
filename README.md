@@ -76,6 +76,9 @@ Contributions from:
 * [Facter](http://puppetlabs.com/puppet/related-projects/facter/)
 * [Sprinkle] (https://github.com/crafterm/sprinkle)
 
+###Deployment
+* [glu](https://github.com/linkedin/glu)
+
 ###Provisioning
 * [Cobbler](http://cobbler.github.com)
 * [xCat](http://xcat.sourceforge.net)
