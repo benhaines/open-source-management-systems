@@ -32,6 +32,7 @@ Contributions from:
 * [OpenTSDB](http://opentsdb.net/)
 * [Overwatch](https://github.com/danryan/overwatch)
 * [Critical](https://github.com/danielsdeleo/critical)
+* [ExtremeMon](https://extremon.org/)
 
 ###Log Files
 * [Flume](https://cwiki.apache.org/FLUME/)
@@ -95,6 +96,7 @@ Contributions from:
 * [Fabric](http://fabfile.org)
 * [Nanite](https://github.com/ezmobius/nanite)
 * [juju](https://juju.ubuntu.com/) (formerly Ensemble)
+* [brooklyn](http://brooklyn.io)
 
 ###IPAM/Asset Management
 * [OpenNetAdmin](http://opennetadmin.com)
