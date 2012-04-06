@@ -76,6 +76,7 @@ Contributions from:
 * [Ohai](http://wiki.opscode.com/display/chef/Ohai)
 * [Facter](http://puppetlabs.com/puppet/related-projects/facter/)
 * [Sprinkle] (https://github.com/crafterm/sprinkle)
+* [Ansible] (http://ansible.github.com/)
 
 ###Deployment
 * [glu](https://github.com/linkedin/glu)
