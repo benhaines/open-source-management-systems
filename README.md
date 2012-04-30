@@ -33,6 +33,7 @@ Contributions from:
 * [Overwatch](https://github.com/danryan/overwatch)
 * [Critical](https://github.com/danielsdeleo/critical)
 * [ExtremeMon](https://extremon.org/)
+* [Amon](https://github.com/martinrusev/amon)
 
 ###Log Files
 * [Flume](https://cwiki.apache.org/FLUME/)
