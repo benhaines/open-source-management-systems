@@ -40,6 +40,7 @@ Contributions from:
 * [Graylog2](http://graylog2.org)
 * [LogStash](http://logstash.net/)
 * [Scribe](https://github.com/facebook/scribe)
+* [Fluentd](http://fluentd.org/)
 
 ###Event Correlation
 * [Esper](http://esper.codehaus.org/)
