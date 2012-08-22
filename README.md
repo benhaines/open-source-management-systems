@@ -39,8 +39,10 @@ Contributions from:
 * [Flume](https://cwiki.apache.org/FLUME/)
 * [Graylog2](http://graylog2.org)
 * [LogStash](http://logstash.net/)
+* [Kibana, UI for LogStash](http://rashidkpc.github.com/Kibana/)
 * [Scribe](https://github.com/facebook/scribe)
 * [Fluentd](http://fluentd.org/)
+* [elasticsearch](http://www.elasticsearch.org/)
 
 ###Event Correlation
 * [Esper](http://esper.codehaus.org/)
