@@ -34,6 +34,7 @@ Contributions from:
 * [Critical](https://github.com/danielsdeleo/critical)
 * [ExtremeMon](https://extremon.org/)
 * [Amon](https://github.com/martinrusev/amon)
+* [Canopsis](http://www.canopsis.org/)
 
 ###Log Files
 * [Flume](https://cwiki.apache.org/FLUME/)
