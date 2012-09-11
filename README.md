@@ -81,8 +81,8 @@ Contributions from:
 * [Babushka](http://babushka.me/)
 * [Ohai](http://wiki.opscode.com/display/chef/Ohai)
 * [Facter](http://puppetlabs.com/puppet/related-projects/facter/)
-* [Sprinkle] (https://github.com/crafterm/sprinkle)
-* [Ansible] (http://ansible.github.com/)
+* [Sprinkle](https://github.com/crafterm/sprinkle)
+* [Ansible](http://ansible.github.com/)
 
 ###Deployment
 * [glu](https://github.com/linkedin/glu)
@@ -104,6 +104,7 @@ Contributions from:
 * [Nanite](https://github.com/ezmobius/nanite)
 * [juju](https://juju.ubuntu.com/) (formerly Ensemble)
 * [brooklyn](http://brooklyn.io)
+* [Synapse](http://comodit.github.com/synapse-agent/) - [introduction blog post](http://www.comodit.com/2012/09/10/synapse---an-open-source-solution-to-remotely-manage-a-large-number-of-hosts/)
 
 ###IPAM/Asset Management
 * [OpenNetAdmin](http://opennetadmin.com)
