@@ -54,6 +54,7 @@ Contributions from:
 * [Visage](https://github.com/auxesis/visage)
 * [Cube](http://square.github.com/cube/)
 * [Cacti](http://www.cacti.net/)
+* [Dashku](https://github.com/Anephenix/dashku)
 
 ###Packaging
 * [0Install](http://0install.net/) - (all platforms)
