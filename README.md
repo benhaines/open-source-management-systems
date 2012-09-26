@@ -92,6 +92,7 @@ Contributions from:
 * [xCat](http://xcat.sourceforge.net)
 * [Jumpsuit](http://jumpsuit.sysadmin.org.uk/)
 * [Foreman](http://theforeman.org/)
+* [Sunzi](https://github.com/kenn/sunzi)
 
 ###Orchestration
 * [MCollective](http://docs.puppetlabs.com/mcollective/)
