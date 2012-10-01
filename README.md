@@ -35,6 +35,7 @@ Contributions from:
 * [ExtremeMon](https://extremon.org/)
 * [Amon](https://github.com/martinrusev/amon)
 * [Canopsis](http://www.canopsis.org/)
+* [Riemann](http://aphyr.github.com/riemann/)
 
 ###Log Files
 * [Flume](https://cwiki.apache.org/FLUME/)
@@ -92,7 +93,6 @@ Contributions from:
 * [xCat](http://xcat.sourceforge.net)
 * [Jumpsuit](http://jumpsuit.sysadmin.org.uk/)
 * [Foreman](http://theforeman.org/)
-* [Sunzi](https://github.com/kenn/sunzi)
 
 ###Orchestration
 * [MCollective](http://docs.puppetlabs.com/mcollective/)
