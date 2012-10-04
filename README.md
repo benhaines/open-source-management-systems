@@ -118,3 +118,4 @@ Contributions from:
 ###Backup
 * [Bacula](http://www.bacula.org/)
 * [Amanda](http://www.amanda.org/)
+* [Backup RubyGem](https://github.com/meskyanichi/backup) - See [getting started](https://github.com/meskyanichi/backup/wiki/Getting-Started) if ruby scares you
