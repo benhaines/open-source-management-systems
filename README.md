@@ -36,6 +36,7 @@ Contributions from:
 * [Amon](https://github.com/martinrusev/amon)
 * [Canopsis](http://www.canopsis.org/)
 * [Riemann](http://aphyr.github.com/riemann/)
+* [Diamond](http://opensource.brightcove.com/project/diamond)
 
 ###Log Files
 * [Flume](https://cwiki.apache.org/FLUME/)
@@ -56,6 +57,7 @@ Contributions from:
 * [Cube](http://square.github.com/cube/)
 * [Cacti](http://www.cacti.net/)
 * [Dashku](https://github.com/Anephenix/dashku)
+* [MRTG](http://oss.oetiker.ch/mrtg/)
 
 ###Packaging
 * [0Install](http://0install.net/) - (all platforms)
