@@ -46,6 +46,16 @@ Contributions from:
 * [Scribe](https://github.com/facebook/scribe)
 * [Fluentd](http://fluentd.org/)
 * [elasticsearch](http://www.elasticsearch.org/)
+* [ossec](http://www.ossec.net/)
+* [Lasso](http://sourceforge.net/projects/lassolog/)
+* [rsyslog](http://www.rsyslog.com/)
+* [log2timeline](https://code.google.com/p/log2timeline/)
+* [plaso](http://log2timeline.kiddaland.net/)
+* [LogHound](http://ristov.users.sourceforge.net/loghound/)
+* [SLCT](http://ristov.users.sourceforge.net/slct/)
+* [Logwatch](http://sourceforge.net/projects/logwatch/)
+* [LogReport](http://www.logreport.org/)
+* [LogSurfer](http://www.crypt.gen.nz/logsurfer/) - [(source)](http://sourceforge.net/projects/logsurfer/)
 
 ###Event Correlation
 * [Esper](http://esper.codehaus.org/)
