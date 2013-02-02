@@ -37,6 +37,7 @@ Contributions from:
 * [Canopsis](http://www.canopsis.org/)
 * [Riemann](http://aphyr.github.com/riemann/)
 * [Diamond](http://opensource.brightcove.com/project/diamond)
+* [Monitorix](http://www.monitorix.org/)
 
 ###Log Files
 * [Flume](https://cwiki.apache.org/FLUME/)
