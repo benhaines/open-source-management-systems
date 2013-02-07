@@ -113,6 +113,7 @@ Contributions from:
 * [RunDeck](http://rundeck.org)
 * [Func](https://fedorahosted.org/func/)
 * [Capistrano](http://en.wikipedia.org/wiki/Capistrano)
+* [Mina](http://nadarei.co/mina/)
 * [Salt](http://saltstack.org/)
 * [Fabric](http://fabfile.org)
 * [Nanite](https://github.com/ezmobius/nanite)
