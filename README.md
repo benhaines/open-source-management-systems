@@ -11,6 +11,7 @@ Contributions from:
 ###Monitoring
 * [Nagios](http://www.nagios.org)
 * [Icinga](http://www.icinga.org)
+* [Shinken](http://www.shinken-monitoring.org)
 * [Zabbix](http://www.zabbix.com)
 * [Hyperic](http://www.hyperic.com)
 * [OpenNMS](http://www.opennms.org)
@@ -28,7 +29,6 @@ Contributions from:
 * [Monit](http://mmonit.com/monit/)
 * [Xymon (aka Hobbit)](http://xymon.sourceforge.net/)
 * [Centreon](http://www.centreon.com/)
-* [chinken](http://www.shinken-monitoring.org/)
 * [OpenTSDB](http://opentsdb.net/)
 * [Overwatch](https://github.com/danryan/overwatch)
 * [Critical](https://github.com/danielsdeleo/critical)
