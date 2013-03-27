@@ -38,6 +38,7 @@ Contributions from:
 * [Riemann](http://aphyr.github.com/riemann/)
 * [Diamond](http://opensource.brightcove.com/project/diamond)
 * [Monitorix](http://www.monitorix.org/)
+* [SmokePing](http://oss.oetiker.ch/smokeping/) - [(source)](https://github.com/oetiker/SmokePing)
 
 ###Log Files
 * [Flume](https://cwiki.apache.org/FLUME/)
