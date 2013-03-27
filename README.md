@@ -88,6 +88,7 @@ Contributions from:
 * [Red Hat Spacewalk](http://spacewalk.redhat.com)
 * [ZooKeeper](http://zookeeper.apache.org)
 * [Noah](https://github.com/lusis/Noah)
+* [Doozer](https://github.com/ha/doozerd)
 * [Blueprint](http://devstructure.com/)
 * [Ubuntu Landscape](http://www.canonical.com/enterprise-services/ubuntu-advantage/landscape) - the server component is not open-source
 * [Bcfg2](http://trac.mcs.anl.gov/projects/bcfg2)
