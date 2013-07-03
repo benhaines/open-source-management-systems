@@ -131,6 +131,7 @@ Contributions from:
 * [Netdot](https://osl.uoregon.edu/redmine/projects/netdot)
 * [Netdisco](http://www.netdisco.org/)
 * [nventory](http://sourceforge.net/apps/trac/nventory)
+* [Ralph](http://ralph.allegrogroup.com/)
 
 ###Backup
 * [Bacula](http://www.bacula.org/)
