@@ -62,6 +62,8 @@ Contributions from:
 ###Event Correlation
 * [Esper](http://esper.codehaus.org/)
 * [SEC](http://simple-evcorr.sourceforge.net/)
+* [Skyline](https://github.com/etsy/skyline) - part of Etsy's [Kale](http://codeascraft.com/2013/06/11/introducing-kale/) system
+* [Oculus](https://github.com/etsy/oculus) - part of Etsy's [Kale](http://codeascraft.com/2013/06/11/introducing-kale/) system
 
 ###Visualisation/Graphing
 * [Graphite](http://graphite.wikidot.com)
