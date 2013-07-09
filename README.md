@@ -72,6 +72,7 @@ Contributions from:
 * [Cacti](http://www.cacti.net/)
 * [Dashku](https://github.com/Anephenix/dashku)
 * [MRTG](http://oss.oetiker.ch/mrtg/)
+* [Graph explorer](https://github.com/vimeo/graph-explorer)
 
 ###Packaging
 * [0Install](http://0install.net/) - (all platforms)
