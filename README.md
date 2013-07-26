@@ -65,7 +65,7 @@ Contributions from:
 * [Skyline](https://github.com/etsy/skyline) - part of Etsy's [Kale](http://codeascraft.com/2013/06/11/introducing-kale/) system
 * [Oculus](https://github.com/etsy/oculus) - part of Etsy's [Kale](http://codeascraft.com/2013/06/11/introducing-kale/) system
 
-###Visualisation/Graphing
+###Visualisation/Graphing/Dashboards
 * [Graphite](http://graphite.wikidot.com)
 * [Visage](https://github.com/auxesis/visage)
 * [Cube](http://square.github.com/cube/)
@@ -73,6 +73,7 @@ Contributions from:
 * [Dashku](https://github.com/Anephenix/dashku)
 * [MRTG](http://oss.oetiker.ch/mrtg/)
 * [Graph explorer](https://github.com/vimeo/graph-explorer)
+* [StatusWolf](https://github.com/box/StatusWolf)
 
 ###Packaging
 * [0Install](http://0install.net/) - (all platforms)
