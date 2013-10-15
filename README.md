@@ -64,6 +64,7 @@ Contributions from:
 * [SEC](http://simple-evcorr.sourceforge.net/)
 * [Skyline](https://github.com/etsy/skyline) - part of Etsy's [Kale](http://codeascraft.com/2013/06/11/introducing-kale/) system
 * [Oculus](https://github.com/etsy/oculus) - part of Etsy's [Kale](http://codeascraft.com/2013/06/11/introducing-kale/) system
+* [Anthracite](https://github.com/Dieterbe/anthracite)
 
 ###Visualisation/Graphing/Dashboards
 * [Graphite](http://graphite.wikidot.com)
@@ -84,6 +85,7 @@ Contributions from:
 * [Pulp](http://pulpproject.org/) - (RH Linux only)
 * [Pennyworth](https://github.com/heavywater/pennyworth)
 * [FPM](https://github.com/jordansissel/fpm) - (Linux only)
+* [Docker](https://github.com/dotcloud/docker)
 
 ###Configuration Management
 * [Poni](http://melor.github.com/poni/index.html)
@@ -94,6 +96,7 @@ Contributions from:
 * [ZooKeeper](http://zookeeper.apache.org)
 * [Noah](https://github.com/lusis/Noah)
 * [Doozer](https://github.com/ha/doozerd)
+* [Etcd](https://github.com/coreos/etcd)
 * [Blueprint](http://devstructure.com/)
 * [Ubuntu Landscape](http://www.canonical.com/enterprise-services/ubuntu-advantage/landscape) - the server component is not open-source
 * [Bcfg2](http://trac.mcs.anl.gov/projects/bcfg2)
@@ -107,6 +110,7 @@ Contributions from:
 
 ###Deployment
 * [glu](https://github.com/linkedin/glu)
+* [orc](https://github.com/youdevise/orc)
 
 ###Provisioning
 * [Cobbler](http://cobbler.github.com)
@@ -121,6 +125,7 @@ Contributions from:
 * [Func](https://fedorahosted.org/func/)
 * [Capistrano](http://en.wikipedia.org/wiki/Capistrano)
 * [Mina](http://nadarei.co/mina/)
+* [doit](https://github.com/DAddYE/do)
 * [Salt](http://saltstack.org/)
 * [Fabric](http://fabfile.org)
 * [Nanite](https://github.com/ezmobius/nanite)
