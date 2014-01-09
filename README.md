@@ -47,7 +47,6 @@ Contributions from:
 * [Kibana, UI for LogStash](http://kibana.org/)
 * [Scribe](https://github.com/facebook/scribe)
 * [Fluentd](http://fluentd.org/)
-* [elasticsearch](http://www.elasticsearch.org/)
 * [ossec](http://www.ossec.net/)
 * [Lasso](http://sourceforge.net/projects/lassolog/)
 * [rsyslog](http://www.rsyslog.com/)
@@ -93,20 +92,22 @@ Contributions from:
 * [Chef](http://www.opscode.com/chef/)
 * [CFengine](http://www.cfengine.com)
 * [Red Hat Spacewalk](http://spacewalk.redhat.com)
-* [ZooKeeper](http://zookeeper.apache.org)
-* [Noah](https://github.com/lusis/Noah)
-* [Doozer](https://github.com/ha/doozerd)
-* [Etcd](https://github.com/coreos/etcd)
 * [Blueprint](http://devstructure.com/)
 * [Ubuntu Landscape](http://www.canonical.com/enterprise-services/ubuntu-advantage/landscape) - the server component is not open-source
 * [Bcfg2](http://trac.mcs.anl.gov/projects/bcfg2)
 * [cDist](https://github.com/telmich/cdist)
 * [Babushka](http://babushka.me/)
-* [Ohai](http://wiki.opscode.com/display/chef/Ohai)
-* [Facter](http://puppetlabs.com/puppet/related-projects/facter/)
 * [Sprinkle](https://github.com/crafterm/sprinkle)
 * [Ansible](http://ansible.github.com/)
 * [Pallet](http://palletops.com/)
+
+###CMDB
+* [ZooKeeper](http://zookeeper.apache.org)
+* [Noah](https://github.com/lusis/Noah)
+* [Doozer](https://github.com/ha/doozerd)
+* [Etcd](https://github.com/coreos/etcd)
+* [Ohai](http://wiki.opscode.com/display/chef/Ohai)
+* [Facter](http://puppetlabs.com/puppet/related-projects/facter/)
 
 ###Deployment
 * [glu](https://github.com/linkedin/glu)
