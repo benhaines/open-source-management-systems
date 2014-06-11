@@ -39,6 +39,7 @@ Contributions from:
 * [Diamond](http://opensource.brightcove.com/project/diamond)
 * [Monitorix](http://www.monitorix.org/)
 * [SmokePing](http://oss.oetiker.ch/smokeping/) - [(source)](https://github.com/oetiker/SmokePing)
+* [sysdig](http://www.sysdig.org/)
 
 ###Log Files
 * [Flume](https://cwiki.apache.org/FLUME/)
@@ -57,6 +58,7 @@ Contributions from:
 * [Logwatch](http://sourceforge.net/projects/logwatch/)
 * [LogReport](http://www.logreport.org/)
 * [LogSurfer](http://www.crypt.gen.nz/logsurfer/) - [(source)](http://sourceforge.net/projects/logsurfer/)
+* [NXLOG Community Edition](http://nxlog-ce.sourceforge.net/)
 
 ###Event Correlation
 * [Esper](http://esper.codehaus.org/)
@@ -74,6 +76,7 @@ Contributions from:
 * [MRTG](http://oss.oetiker.ch/mrtg/)
 * [Graph explorer](https://github.com/vimeo/graph-explorer)
 * [StatusWolf](https://github.com/box/StatusWolf)
+* [Dashing](http://shopify.github.io/dashing/)
 
 ###Packaging
 * [0Install](http://0install.net/) - (all platforms)
