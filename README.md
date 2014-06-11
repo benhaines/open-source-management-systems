@@ -88,6 +88,7 @@ Contributions from:
 * [Pennyworth](https://github.com/heavywater/pennyworth)
 * [FPM](https://github.com/jordansissel/fpm) - (Linux only)
 * [Docker](https://github.com/dotcloud/docker)
+* [Chocolatey](https://chocolatey.org/)
 
 ###Configuration Management
 * [Poni](http://melor.github.com/poni/index.html)
