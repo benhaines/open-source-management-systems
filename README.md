@@ -77,6 +77,7 @@ Contributions from:
 * [Graph explorer](https://github.com/vimeo/graph-explorer)
 * [StatusWolf](https://github.com/box/StatusWolf)
 * [Dashing](http://shopify.github.io/dashing/)
+* [Tessera](https://github.com/urbanairship/tessera)
 
 ###Packaging
 * [0Install](http://0install.net/) - (all platforms)
@@ -104,6 +105,7 @@ Contributions from:
 * [Sprinkle](https://github.com/crafterm/sprinkle)
 * [Ansible](http://ansible.github.com/)
 * [Pallet](http://palletops.com/)
+* [Puppet Explorer](https://github.com/spotify/puppetexplorer)
 
 ###CMDB
 * [ZooKeeper](http://zookeeper.apache.org)
