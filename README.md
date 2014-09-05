@@ -16,7 +16,7 @@ Contributions from:
 * [Hyperic](http://www.hyperic.com)
 * [OpenNMS](http://www.opennms.org)
 * [Reconnoiter](http://labs.omniti.com/labs/reconnoiter)
-* [Flapjack](http://flapjack-project.com/)
+* [Flapjack](http://flapjack.io/)
 * [Big Brother](http://bb4.com/)
 * [Zenoss](http://www.zenoss.com)
 * [OpenSmart](http://opensmart.sourceforge.net)
