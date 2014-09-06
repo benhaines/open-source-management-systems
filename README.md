@@ -114,6 +114,7 @@ Contributions from:
 * [Etcd](https://github.com/coreos/etcd)
 * [Ohai](http://wiki.opscode.com/display/chef/Ohai)
 * [Facter](http://puppetlabs.com/puppet/related-projects/facter/)
+* [Collins](http://tumblr.github.io/collins/)
 
 ###Deployment
 * [glu](https://github.com/linkedin/glu)
