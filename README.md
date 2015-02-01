@@ -40,6 +40,8 @@ Contributions from:
 * [Monitorix](http://www.monitorix.org/)
 * [SmokePing](http://oss.oetiker.ch/smokeping/) - [(source)](https://github.com/oetiker/SmokePing)
 * [sysdig](http://www.sysdig.org/)
+* [Prometheus](http://prometheus.io/)
+* [Heka](https://github.com/mozilla-services/heka)
 
 ###Log Files
 * [Flume](https://cwiki.apache.org/FLUME/)
