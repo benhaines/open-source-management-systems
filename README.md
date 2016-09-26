@@ -6,7 +6,7 @@ New additions and amendments will be gratefully received. If you aren't familiar
 
 Contributions from:
 
-* @DZone, @opennetadm, @mostalive, @davidltaylor, @aglenyoung, @cjeffblaine, @santisaez, @phrawzty, @erthad, @uggedal, @rhysmorgan
+* @DZone, @opennetadm, @mostalive, @davidltaylor, @aglenyoung, @cjeffblaine, @santisaez, @phrawzty, @erthad, @uggedal, @rhysmorgan, @dan-and 
 
 ###Monitoring
 * [Nagios](http://www.nagios.org)
@@ -42,6 +42,7 @@ Contributions from:
 * [sysdig](http://www.sysdig.org/)
 * [Prometheus](http://prometheus.io/)
 * [Heka](https://github.com/mozilla-services/heka)
+* [Bosun](https://bosun.org/)
 
 ###Log Files
 * [Flume](https://cwiki.apache.org/FLUME/)
