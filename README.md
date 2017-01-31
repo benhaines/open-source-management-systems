@@ -81,6 +81,7 @@ Contributions from:
 * [StatusWolf](https://github.com/box/StatusWolf)
 * [Dashing](http://shopify.github.io/dashing/)
 * [Tessera](https://github.com/urbanairship/tessera)
+* [Snorkel](https://github.com/logv/snorkel)
 
 ###Packaging
 * [0Install](http://0install.net/) - (all platforms)
