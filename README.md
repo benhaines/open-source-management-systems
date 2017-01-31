@@ -120,7 +120,7 @@ Contributions from:
 * [Collins](http://tumblr.github.io/collins/)
 
 ###Deployment
-* [glu](https://github.com/linkedin/glu)
+* [glu](https://github.com/pongasoft/glu)
 * [orc](https://github.com/youdevise/orc)
 
 ###Provisioning
