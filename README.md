@@ -17,7 +17,6 @@ Contributions from:
 * [OpenNMS](http://www.opennms.org)
 * [Reconnoiter](http://labs.omniti.com/labs/reconnoiter)
 * [Flapjack](http://flapjack.io/)
-* [Big Brother](http://bb4.com/)
 * [Zenoss](http://www.zenoss.com)
 * [OpenSmart](http://opensmart.sourceforge.net)
 * [PandoraFMS](http://pandorafms.org)
@@ -72,6 +71,7 @@ Contributions from:
 
 ### Visualisation/Graphing/Dashboards
 * [Graphite](http://graphite.wikidot.com)
+* [Grafana](http://grafana.org/)
 * [Visage](https://github.com/auxesis/visage)
 * [Cube](http://square.github.com/cube/)
 * [Cacti](http://www.cacti.net/)
@@ -81,6 +81,7 @@ Contributions from:
 * [StatusWolf](https://github.com/box/StatusWolf)
 * [Dashing](http://shopify.github.io/dashing/)
 * [Tessera](https://github.com/urbanairship/tessera)
+* [Snorkel](https://github.com/logv/snorkel)
 
 ### Packaging
 * [0Install](http://0install.net/) - (all platforms)
@@ -120,7 +121,7 @@ Contributions from:
 * [Collins](http://tumblr.github.io/collins/)
 
 ### Deployment
-* [glu](https://github.com/linkedin/glu)
+* [glu](https://github.com/pongasoft/glu)
 * [orc](https://github.com/youdevise/orc)
 
 ### Provisioning
