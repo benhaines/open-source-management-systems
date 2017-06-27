@@ -72,6 +72,7 @@ Contributions from:
 
 ###Visualisation/Graphing/Dashboards
 * [Graphite](http://graphite.wikidot.com)
+* [Grafana](http://grafana.org/)
 * [Visage](https://github.com/auxesis/visage)
 * [Cube](http://square.github.com/cube/)
 * [Cacti](http://www.cacti.net/)
