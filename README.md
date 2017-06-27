@@ -1,5 +1,5 @@
-#Open-Source Management Systems
-##Overview
+# Open-Source Management Systems
+## Overview
 This is a collection of open-source management systems tools.
 
 New additions and amendments will be gratefully received. If you aren't familiar with Git/Github, simply email me your changes: ben.haines@gmail.com.
@@ -8,7 +8,7 @@ Contributions from:
 
 * @DZone, @opennetadm, @mostalive, @davidltaylor, @aglenyoung, @cjeffblaine, @santisaez, @phrawzty, @erthad, @uggedal, @rhysmorgan, @dan-and 
 
-###Monitoring
+### Monitoring
 * [Nagios](http://www.nagios.org)
 * [Icinga](http://www.icinga.org)
 * [Shinken](http://www.shinken-monitoring.org)
@@ -43,7 +43,7 @@ Contributions from:
 * [Heka](https://github.com/mozilla-services/heka)
 * [Bosun](https://bosun.org/)
 
-###Log Files
+### Log Files
 * [Flume](https://cwiki.apache.org/FLUME/)
 * [Graylog2](http://graylog2.org)
 * [LogStash](http://logstash.net/)
@@ -62,14 +62,14 @@ Contributions from:
 * [LogSurfer](http://www.crypt.gen.nz/logsurfer/) - [(source)](http://sourceforge.net/projects/logsurfer/)
 * [NXLOG Community Edition](http://nxlog-ce.sourceforge.net/)
 
-###Event Correlation
+### Event Correlation
 * [Esper](http://esper.codehaus.org/)
 * [SEC](http://simple-evcorr.sourceforge.net/)
 * [Skyline](https://github.com/etsy/skyline) - part of Etsy's [Kale](http://codeascraft.com/2013/06/11/introducing-kale/) system
 * [Oculus](https://github.com/etsy/oculus) - part of Etsy's [Kale](http://codeascraft.com/2013/06/11/introducing-kale/) system
 * [Anthracite](https://github.com/Dieterbe/anthracite)
 
-###Visualisation/Graphing/Dashboards
+### Visualisation/Graphing/Dashboards
 * [Graphite](http://graphite.wikidot.com)
 * [Grafana](http://grafana.org/)
 * [Visage](https://github.com/auxesis/visage)
@@ -83,7 +83,7 @@ Contributions from:
 * [Tessera](https://github.com/urbanairship/tessera)
 * [Snorkel](https://github.com/logv/snorkel)
 
-###Packaging
+### Packaging
 * [0Install](http://0install.net/) - (all platforms)
 * [WPKG](http://wpkg.org) - (Windows only)
 * [Pakiti](http://pakiti.sourceforge.net) - (Linux only)
@@ -95,7 +95,7 @@ Contributions from:
 * [Docker](https://github.com/dotcloud/docker)
 * [Chocolatey](https://chocolatey.org/)
 
-###Configuration Management
+### Configuration Management
 * [Poni](http://melor.github.com/poni/index.html)
 * [Puppet](http://puppetlabs.com)
 * [Chef](http://www.opscode.com/chef/)
@@ -111,7 +111,7 @@ Contributions from:
 * [Pallet](http://palletops.com/)
 * [Puppet Explorer](https://github.com/spotify/puppetexplorer)
 
-###CMDB
+### CMDB
 * [ZooKeeper](http://zookeeper.apache.org)
 * [Noah](https://github.com/lusis/Noah)
 * [Doozer](https://github.com/ha/doozerd)
@@ -120,17 +120,17 @@ Contributions from:
 * [Facter](http://puppetlabs.com/puppet/related-projects/facter/)
 * [Collins](http://tumblr.github.io/collins/)
 
-###Deployment
+### Deployment
 * [glu](https://github.com/pongasoft/glu)
 * [orc](https://github.com/youdevise/orc)
 
-###Provisioning
+### Provisioning
 * [Cobbler](http://cobbler.github.com)
 * [xCat](http://xcat.sourceforge.net)
 * [Jumpsuit](http://jumpsuit.sysadmin.org.uk/)
 * [Foreman](http://theforeman.org/)
 
-###Orchestration
+### Orchestration
 * [MCollective](http://docs.puppetlabs.com/mcollective/)
 * [ControlTier](http://doc36.controltier.org/wiki/Main_Page)
 * [RunDeck](http://rundeck.org)
@@ -145,7 +145,7 @@ Contributions from:
 * [brooklyn](http://brooklyn.io)
 * [Synapse](http://comodit.github.com/synapse-agent/) - [introduction blog post](http://www.comodit.com/2012/09/10/synapse---an-open-source-solution-to-remotely-manage-a-large-number-of-hosts/)
 
-###IPAM/Asset Management
+### IPAM/Asset Management
 * [OpenNetAdmin](http://opennetadmin.com)
 * [Fusion Inventory](http://www.fusioninventory.org)
 * [Racktables](http://racktables.org/)
@@ -154,12 +154,12 @@ Contributions from:
 * [nventory](http://sourceforge.net/apps/trac/nventory)
 * [Ralph](http://ralph.allegrogroup.com/)
 
-###Backup
+### Backup
 * [Bacula](http://www.bacula.org/)
 * [Amanda](http://www.amanda.org/)
 * [Backup RubyGem](https://github.com/meskyanichi/backup) - See [getting started](https://github.com/meskyanichi/backup/wiki/Getting-Started) if ruby scares you
 * [Sweet](http://gosweet.org/)
 
-###Security
+### Security
 * [OSSEC](http://www.ossec.net/)
 
